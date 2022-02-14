@@ -1,1 +1,5 @@
 // Non stash changes to n-two
+don't cherry pick this
+if we want not to commit the cherry-picked commit from the another branch
+then
+git cherry-pick -n <commit id> is used
